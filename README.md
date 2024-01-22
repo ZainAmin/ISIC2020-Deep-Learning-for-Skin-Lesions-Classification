@@ -1,5 +1,5 @@
-# A skin lesion classification approach using deep learning
-Authors: Xavier Beltran Urbano and [Muhammad Zain Amin](https://github.com/ZainAmin)
+# A Skin Lesion Classification Approach Using Deep Learning
+Authors: [Muhammad Zain Amin] and [Xavier Beltran Urbano](https://xavibeltranurbano.github.io/)
 
 ## Setting up the Project
 
