@@ -5,8 +5,8 @@ Authors: Muhammad Zain Amin and [Xavier Beltran Urbano](https://xavibeltranurban
 
 1. Clone the project:
   ```bash
-  git https://github.com/xavibeltranurbano/DL_ISIC_2020.git
-  cd DL_ISIC_2020
+  git https://github.com/ZainAmin/ISIC2020-Deep-Learning-for-Skin-Lesions-Classification/ISIC2020-Deep-Learning-for-Skin-Lesions-Classification.git
+  cd ISIC2020-Deep-Learning-for-Skin-Lesions-Classification
   ```
 ## Libraries Used
 
